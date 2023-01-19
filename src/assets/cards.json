@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "image": "https://lh3.googleusercontent.com/I1q0ok8Inf0_c5Vt8MhqRvo-mWbn1lrxt-5gzZh0_bY-mBGu-g_qfHxacq-Qqo38pvAygX0PxRL4Ngkj_7TnVIQDP4B_j0jQRtJf2XH9SsCUHTDTwr6OOK6zIIySIz9-zJvlEUw_IhH_vCFlFkbm3IulEX5-xv_eNESMkvIToz2tWzPJqqWq3ZSh69qhTJcI0DDHd5qXyNXA-gvsAyKg_IrL2emaCxHeND0FM_uXfL6W_S4kc6fph-MtCn1JZGg6OTwfMN5vT9maU6P-TwA0noYtnapteoAlMEdRCGwZ0CTNvsKvajsYofBDUD2FcDyWQFRoXXJYu0cQzCGVXEWoHWPpASf0F2igTDKAVvpCv4fY-Qp4yY3e4LoawtHFJQIGEZjTQWRslolgynnrdcaiX0PLMLMpV2wUsRTPTMrnUk9hmRI5-c84NZ-NCuA-zCD0uBsvXMZS5DPA2OQ0frD1bHc5K-eyFd8BPaET5yj6ALXvsx8DzB0qbzQOAVGSaDvPbZy-N6EveGjKu5swjFLHdpbY3IDhv7HAkcaNtM4MSGfsT5K8dVvJ7p0c9qsug5LxBS2xXBnlyIiEKnOQ4J7wHZip5qw-_6yTjgVgYQTx_3MzXGExQULFyZDPthynUiSZpKIH9cPs7MpBzz46PuAGe9m_YM5jLq0382t0gO0dgYpMDSQ9lIhvthEJ2-618Angq-yvG1LjBUk_bwypEEnNxS8DtIGiZBRiZsrQM-6EHIHrSeAC-54XKO5IJO4kzBlG4AyO7mFTqSrJ95KAUunkHwrYJYAb_Y9oubhl8FFYHop7-Sxsy3jOaeWf5ZaQDRQrBVW97L36E8QUwok_D2saDK5mqwj17s5_IFnFfpmDkqZWjIDqB9bX1Z6i0UDvwm6qkoFxUUq2pFJrKzg5_QjIeBDKXQ2ErDgqSTHcaj1ZIUxxrE04=w327-h308-no?authuser=0",
+    "introTitle": "Сказочное заморское яство",
+    "introHoverTitle": "Котэ не одобряет?",
+    "title": "Нямушка",
+    "subtitle": "с фуа-гра",
+    "description1": "10 порций",
+    "description2": "мышь в подарок",
+    "weight": "0,5",
+    "buy": "Печень утки разварная с артишоками.",
+    "amount": "5"
+  },
+  {
+    "id": 1,
+    "image": "https://lh3.googleusercontent.com/I1q0ok8Inf0_c5Vt8MhqRvo-mWbn1lrxt-5gzZh0_bY-mBGu-g_qfHxacq-Qqo38pvAygX0PxRL4Ngkj_7TnVIQDP4B_j0jQRtJf2XH9SsCUHTDTwr6OOK6zIIySIz9-zJvlEUw_IhH_vCFlFkbm3IulEX5-xv_eNESMkvIToz2tWzPJqqWq3ZSh69qhTJcI0DDHd5qXyNXA-gvsAyKg_IrL2emaCxHeND0FM_uXfL6W_S4kc6fph-MtCn1JZGg6OTwfMN5vT9maU6P-TwA0noYtnapteoAlMEdRCGwZ0CTNvsKvajsYofBDUD2FcDyWQFRoXXJYu0cQzCGVXEWoHWPpASf0F2igTDKAVvpCv4fY-Qp4yY3e4LoawtHFJQIGEZjTQWRslolgynnrdcaiX0PLMLMpV2wUsRTPTMrnUk9hmRI5-c84NZ-NCuA-zCD0uBsvXMZS5DPA2OQ0frD1bHc5K-eyFd8BPaET5yj6ALXvsx8DzB0qbzQOAVGSaDvPbZy-N6EveGjKu5swjFLHdpbY3IDhv7HAkcaNtM4MSGfsT5K8dVvJ7p0c9qsug5LxBS2xXBnlyIiEKnOQ4J7wHZip5qw-_6yTjgVgYQTx_3MzXGExQULFyZDPthynUiSZpKIH9cPs7MpBzz46PuAGe9m_YM5jLq0382t0gO0dgYpMDSQ9lIhvthEJ2-618Angq-yvG1LjBUk_bwypEEnNxS8DtIGiZBRiZsrQM-6EHIHrSeAC-54XKO5IJO4kzBlG4AyO7mFTqSrJ95KAUunkHwrYJYAb_Y9oubhl8FFYHop7-Sxsy3jOaeWf5ZaQDRQrBVW97L36E8QUwok_D2saDK5mqwj17s5_IFnFfpmDkqZWjIDqB9bX1Z6i0UDvwm6qkoFxUUq2pFJrKzg5_QjIeBDKXQ2ErDgqSTHcaj1ZIUxxrE04=w327-h308-no?authuser=0",
+    "introTitle": "Сказочное заморское яство",
+    "introHoverTitle": "Котэ не одобряет?",
+    "title": "Нямушка",
+    "subtitle": "с рыбой",
+    "description1": "40 порций",
+    "description2": "2 мыши в подарок",
+    "weight": "2",
+    "buy": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+    "amount": "2"
+  },
+  {
+    "id": 2,
+    "image": "https://lh3.googleusercontent.com/I1q0ok8Inf0_c5Vt8MhqRvo-mWbn1lrxt-5gzZh0_bY-mBGu-g_qfHxacq-Qqo38pvAygX0PxRL4Ngkj_7TnVIQDP4B_j0jQRtJf2XH9SsCUHTDTwr6OOK6zIIySIz9-zJvlEUw_IhH_vCFlFkbm3IulEX5-xv_eNESMkvIToz2tWzPJqqWq3ZSh69qhTJcI0DDHd5qXyNXA-gvsAyKg_IrL2emaCxHeND0FM_uXfL6W_S4kc6fph-MtCn1JZGg6OTwfMN5vT9maU6P-TwA0noYtnapteoAlMEdRCGwZ0CTNvsKvajsYofBDUD2FcDyWQFRoXXJYu0cQzCGVXEWoHWPpASf0F2igTDKAVvpCv4fY-Qp4yY3e4LoawtHFJQIGEZjTQWRslolgynnrdcaiX0PLMLMpV2wUsRTPTMrnUk9hmRI5-c84NZ-NCuA-zCD0uBsvXMZS5DPA2OQ0frD1bHc5K-eyFd8BPaET5yj6ALXvsx8DzB0qbzQOAVGSaDvPbZy-N6EveGjKu5swjFLHdpbY3IDhv7HAkcaNtM4MSGfsT5K8dVvJ7p0c9qsug5LxBS2xXBnlyIiEKnOQ4J7wHZip5qw-_6yTjgVgYQTx_3MzXGExQULFyZDPthynUiSZpKIH9cPs7MpBzz46PuAGe9m_YM5jLq0382t0gO0dgYpMDSQ9lIhvthEJ2-618Angq-yvG1LjBUk_bwypEEnNxS8DtIGiZBRiZsrQM-6EHIHrSeAC-54XKO5IJO4kzBlG4AyO7mFTqSrJ95KAUunkHwrYJYAb_Y9oubhl8FFYHop7-Sxsy3jOaeWf5ZaQDRQrBVW97L36E8QUwok_D2saDK5mqwj17s5_IFnFfpmDkqZWjIDqB9bX1Z6i0UDvwm6qkoFxUUq2pFJrKzg5_QjIeBDKXQ2ErDgqSTHcaj1ZIUxxrE04=w327-h308-no?authuser=0",
+    "introTitle": "Сказочное заморское яство",
+    "introHoverTitle": "Котэ не одобряет?",
+    "title": "Нямушка",
+    "subtitle": "с курой",
+    "description1": "100 порций",
+    "description2": "5 мышей в подарок",
+    "description3": "заказчик доволен",
+    "weight": "5",
+    "buy": "Печалька, с курой закончился.",
+    "amount": "0"
+  }
+]
